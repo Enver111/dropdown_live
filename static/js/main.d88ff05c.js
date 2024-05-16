@@ -9177,21 +9177,21 @@
       var e = t(791),
         n = t(250);
       const r =
-        t.p + './static/media/arrow.82a1b9fed16c47536d95e79b76b6fc56.svg';
+        t.p + '.static/media/arrow.82a1b9fed16c47536d95e79b76b6fc56.svg';
       const l =
-        t.p + './static/media/cross.678f39a6b83ebd5dfee725b6d4a44b1d.svg';
+        t.p + '.static/media/cross.678f39a6b83ebd5dfee725b6d4a44b1d.svg';
       const a =
-        t.p + './static/media/Russia.8e1f313cd5bdbc690ab3a16be1567e5c.svg';
+        t.p + '.static/media/Russia.8e1f313cd5bdbc690ab3a16be1567e5c.svg';
       const o =
-        t.p + './static/media/England.032bc284f50abd2066fdc696d61ce4a9.svg';
+        t.p + '.static/media/England.032bc284f50abd2066fdc696d61ce4a9.svg';
       const u =
-        t.p + './static/media/Germany.190eb0a48660fbede01c5353831a575e.svg';
+        t.p + '.static/media/Germany.190eb0a48660fbede01c5353831a575e.svg';
       const i =
-        t.p + './static/media/Italy.2c946ad5eeb3067ecba13a51dfc5b625.svg';
+        t.p + '.static/media/Italy.2c946ad5eeb3067ecba13a51dfc5b625.svg';
       const s =
-        t.p + './static/media/Poland.201fde53a5b9c283de08a97a18bc7d71.svg';
+        t.p + '.static/media/Poland.201fde53a5b9c283de08a97a18bc7d71.svg';
       const c =
-          t.p + './static/media/Spain.0c0459963e451494ca0e3676ba055928.svg',
+          t.p + '.static/media/Spain.0c0459963e451494ca0e3676ba055928.svg',
         f = 'Checkbox_elem__lQU3Y',
         d = 'Checkbox_checked__ynGMi';
       var p = t(184);
